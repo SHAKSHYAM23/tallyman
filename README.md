@@ -1,4 +1,4 @@
-# Tallyman: Money Decision Copilot
+# Tallyman: Money Decision Copilot [Live Demo](https://tallyman-copilot.streamlit.app/)
 
 A chat assistant for everyday money decisions in India. You describe a decision in plain words, it asks for whatever is missing, and then calculator tools do the maths. The language model only understands your message and explains the result. It never calculates.
 
@@ -10,6 +10,8 @@ A chat assistant for everyday money decisions in India. You describe a decision 
 ![Groq](https://img.shields.io/badge/LLM-Groq-F55036)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-75%20passing-brightgreen)
+
+Live - https://tallyman-copilot.streamlit.app/
 
 ## Contents
 
