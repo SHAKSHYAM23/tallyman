@@ -1,0 +1,51 @@
+"2025-26":
+  cess: 0.04
+  new:
+    standard_deduction: 75000
+    rebate_limit: 1200000
+    rebate_max: 60000
+    marginal_relief: true
+    slabs:
+      - [400000, 0]
+      - [800000, 0.05]
+      - [1200000, 0.10]
+      - [1600000, 0.15]
+      - [2000000, 0.20]
+      - [2400000, 0.25]
+      - [null, 0.30]
+  old:
+    standard_deduction: 50000
+    rebate_limit: 500000
+    rebate_max: 12500
+    marginal_relief: false
+    slabs:
+      - [250000, 0]
+      - [500000, 0.05]
+      - [1000000, 0.20]
+      - [null, 0.30]
+
+"2026-27":
+  cess: 0.04
+  new:
+    standard_deduction: 75000
+    rebate_limit: 1200000
+    rebate_max: 60000
+    marginal_relief: true
+    slabs:
+      - [400000, 0]
+      - [800000, 0.05]
+      - [1200000, 0.10]
+      - [1600000, 0.15]
+      - [2000000, 0.20]
+      - [2400000, 0.25]
+      - [null, 0.30]
+  old:
+    standard_deduction: 50000
+    rebate_limit: 500000
+    rebate_max: 12500
+    marginal_relief: false
+    slabs:
+      - [250000, 0]
+      - [500000, 0.05]
+      - [1000000, 0.20]
+      - [null, 0.30]
